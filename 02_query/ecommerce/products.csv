@@ -1,0 +1,102 @@
+product_id,vendor_id,product_name,category,price,in_stock
+1,1,Wireless Bluetooth Earbuds,Electronics,65.99,true
+2,2,Stainless Steel Water Bottle,Home & Kitchen,105.99,true
+3,3,Yoga Mat,Sporting Goods,118.99,true
+4,4,Mechanical Pencil Set,Office Supplies,26.99,false
+5,5,Building Block Set,Toys,31.99,true
+6,6,Bestselling Cookbook,Books,12.99,false
+7,7,Fleece Zip-Up Hoodie,Apparel,62.99,true
+8,8,Pruning Shears,Garden,45.99,true
+9,9,4K Streaming Media Player,Electronics,104.99,true
+10,10,Non-Stick Frying Pan,Home & Kitchen,10.99,false
+11,11,Adjustable Dumbbell Set,Sporting Goods,151.99,true
+12,12,Sticky Notes Pack,Office Supplies,29.99,true
+13,13,1000-Piece Jigsaw Puzzle,Toys,38.99,true
+14,14,Children's Picture Book,Books,17.99,true
+15,15,Slim Fit Jeans,Apparel,37.99,true
+16,16,Solar Pathway Lights (Set of 8),Garden,11.99,true
+17,17,Portable Bluetooth Speaker,Electronics,153.99,true
+18,18,Electric Kettle,Home & Kitchen,62.99,true
+19,19,Resistance Bands Set,Sporting Goods,124.99,false
+20,20,Desk Organizer,Office Supplies,50.99,true
+21,21,1000-Piece Jigsaw Puzzle,Toys,47.99,true
+22,22,Self-Help Guide,Books,11.99,true
+23,23,Running Shorts,Apparel,60.99,false
+24,24,Raised Garden Bed Kit,Garden,110.99,true
+25,25,Noise Cancelling Headphones,Electronics,165.99,true
+26,1,Ceramic Coffee Mug Set,Home & Kitchen,38.99,true
+27,2,Foam Roller,Sporting Goods,42.99,true
+28,3,Wireless Presenter Remote,Office Supplies,25.99,true
+29,4,Classic Board Game,Toys,33.99,true
+30,5,Historical Fiction Novel,Books,27.99,false
+31,6,Wool Blend Socks (3-Pack),Apparel,18.99,true
+32,7,Potting Soil Mix,Garden,144.99,true
+33,8,USB-C Fast Charger,Electronics,43.99,true
+34,9,Silicone Baking Mat,Home & Kitchen,110.99,true
+35,10,Jump Rope,Sporting Goods,25.99,true
+36,11,Ergonomic Chair Cushion,Office Supplies,6.99,true
+37,12,Classic Board Game,Toys,27.99,false
+38,13,Science Fiction Epic,Books,28.99,true
+39,14,Baseball Cap,Apparel,40.99,true
+40,15,Galvanized Watering Can,Garden,87.99,false
+41,16,Smart LED Light Bulb,Electronics,29.99,true
+42,17,Knife Sharpener,Home & Kitchen,98.99,true
+43,18,Hiking Backpack,Sporting Goods,114.99,true
+44,19,Heavy-Duty Stapler,Office Supplies,32.99,true
+45,20,Art and Craft Kit,Toys,40.99,true
+46,21,Graphic Novel Collection,Books,8.99,true
+47,22,Packable Rain Jacket,Apparel,67.99,true
+48,23,Hanging Bird Feeder,Garden,139.99,true
+49,24,Wireless Phone Charging Pad,Electronics,153.99,true
+50,25,Bamboo Cutting Board,Home & Kitchen,21.99,true
+51,1,Insulated Water Bottle,Sporting Goods,26.99,true
+52,2,Whiteboard Markers Set,Office Supplies,6.99,true
+53,3,Art and Craft Kit,Toys,39.99,true
+54,4,Journal and Notebook Set,Books,17.99,true
+55,5,Winter Puffer Vest,Apparel,56.99,true
+56,6,Garden Gloves,Garden,16.99,true
+57,7,"HDMI Cable, 6ft",Electronics,83.99,true
+58,8,Digital Kitchen Scale,Home & Kitchen,114.99,true
+59,9,Running Armband,Sporting Goods,143.99,true
+60,10,Cross-Cut Paper Shredder,Office Supplies,40.99,true
+61,11,Kids Tablet Case,Toys,10.99,true
+62,12,Poetry Anthology,Books,15.99,true
+63,13,Yoga Leggings,Apparel,34.99,false
+64,14,Outdoor Planter Pot,Garden,109.99,true
+65,15,Mechanical Gaming Keyboard,Electronics,90.99,true
+66,16,Air Fryer,Home & Kitchen,109.99,true
+67,17,Camping Tent,Sporting Goods,84.99,false
+68,18,Adjustable Laptop Stand,Office Supplies,29.99,true
+69,19,Kids Tablet Case,Toys,37.99,false
+70,20,Travel Guide Book,Books,28.99,true
+71,21,Flannel Button-Down Shirt,Apparel,56.99,true
+72,22,Grass Seed Bag,Garden,148.99,true
+73,23,Wireless Optical Mouse,Electronics,255.99,true
+74,24,French Press Coffee Maker,Home & Kitchen,109.99,true
+75,25,Sleeping Bag,Sporting Goods,81.99,true
+76,1,Monitor Riser Stand,Office Supplies,6.99,true
+77,2,Water Balloon Set,Toys,9.99,false
+78,3,Bestselling Biography,Books,20.99,true
+79,4,Canvas Sneakers,Apparel,55.99,false
+80,5,Leaf Rake,Garden,23.99,true
+81,6,Portable Power Bank,Electronics,59.99,true
+82,7,Reusable Produce Bags,Home & Kitchen,21.99,true
+83,8,Bike Helmet,Sporting Goods,51.99,true
+84,9,File Folder Set,Office Supplies,47.99,true
+85,10,Water Balloon Set,Toys,49.99,true
+86,11,Fantasy Novel Series,Books,19.99,true
+87,12,Thermal Base Layer Set,Apparel,67.99,true
+88,13,Patio Furniture Cover,Garden,19.99,true
+89,14,Smart Home Security Camera,Electronics,254.99,true
+90,15,Glass Meal Prep Containers,Home & Kitchen,57.99,true
+91,16,Golf Ball Set,Sporting Goods,163.99,true
+92,17,Desk Lamp with USB Port,Office Supplies,49.99,true
+93,18,Play-Doh Variety Pack,Toys,43.99,true
+94,19,Puzzle and Activity Book,Books,8.99,true
+95,20,Knit Beanie,Apparel,34.99,true
+96,21,Wind Chime,Garden,144.99,true
+97,22,Bluetooth Fitness Tracker,Electronics,286.99,true
+98,23,Electric Hand Mixer,Home & Kitchen,124.99,true
+99,24,Tennis Racket,Sporting Goods,189.99,true
+100,25,Label Maker,Office Supplies,26.99,true
+101,99,Practice Widget,Electronics,24.99,true
