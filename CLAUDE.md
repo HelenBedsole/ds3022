@@ -49,4 +49,4 @@ Don't commit generated or large files — warn before staging things like:
 - Prefer Brevity and Concision over Verbosity
 - Always enable error handling (try/except/etc.) and logging to local files.
 - Keep python to single file implementations unless a separate class is required. Ask before creating a separate class file.
-
+- Always comment functions or important stanzas of code to explain them to others.
