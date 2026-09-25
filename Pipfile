@@ -16,6 +16,7 @@ dbt-core = "*"
 requests = "*"
 asyncio = "*"
 httpx = "*"
+psutil = "*"
 
 [dev-packages]
 
